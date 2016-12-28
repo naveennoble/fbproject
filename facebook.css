@@ -1,0 +1,53 @@
+.btn{
+	background-color: #3b5998;
+	font-size: 13px;
+	color: #fff;
+	border-color: blue; 
+}
+.headd{
+	background-color: #3b5998;
+	width: 100%;
+	height: 100px;
+}
+#l_head
+{
+	width: 65%;
+	float: left;
+	padding-top: 20px;
+	margin-left: 10px;
+
+	
+
+}
+#r_head
+{
+	width: 32%;
+	float: right;
+	padding-top: 40px;
+	}
+.ff{
+	font-size: 50px;
+	color: #fff;
+
+}
+.l_body{
+	width: 50%;
+	float: left;
+	padding-top:40px; 
+
+}
+.r_body{
+	width: 40%;
+	float: right;
+	
+}
+.sign{
+	margin-left: 150px;
+	font-size: 35px;
+	padding-top: 20px; 
+}
+.btnn{
+	background-color: green;
+	font-size: 24px;
+	border-radius: 9px;
+}
